@@ -78,7 +78,7 @@ This ensures secure, transparent, and traceable land ownership management within
 
 ## User Story 5: Subsidy \& Purchase
 
-This module allows the government to directly purchase crops from farmers and handle subsidy or insurance payments.  
+This module allows the government to directly purchase crops from farmers and handle subsidy or insurance payments.
 
 The purchase amount or subsidy is transferred to the farmer’s Aadhaar-linked bank account.
 
@@ -86,13 +86,13 @@ The purchase amount or subsidy is transferred to the farmer’s Aadhaar-linked b
 
 Key functions include:
 
-\- Tracking of crop readiness and sale to government  
+\- Tracking of crop readiness and sale to government
 
-\- Auto-payment of purchase value to bank accounts  
+\- Auto-payment of purchase value to bank accounts
 
-\- Management of subsidy and insurance transactions  
+\- Management of subsidy and insurance transactions
 
-\- Integration with loan repayment for seamless processing  
+\- Integration with loan repayment for seamless processing
 
 
 
@@ -102,7 +102,7 @@ This ensures transparency, timely payments, and accurate government-to-farmer fu
 
 \## User Story 6: Farmer Reports
 
-This feature provides farmers and government officials with detailed reports on cultivation, loan status, subsidies, and aquaculture activities.  
+This feature provides farmers and government officials with detailed reports on cultivation, loan status, subsidies, and aquaculture activities.
 
 Reports help farmers analyze their performance and assist the government in policy decisions.
 
@@ -110,17 +110,39 @@ Reports help farmers analyze their performance and assist the government in poli
 
 Key functions include:
 
-\- Generation of crop yield and financial reports  
+\- Generation of crop yield and financial reports
 
-\- Viewing of loan and subsidy history  
+\- Viewing of loan and subsidy history
 
-\- Downloadable and printable report summaries  
+\- Downloadable and printable report summaries
 
-\- Role-based access (farmers: view-only, officials: full access)  
+\- Role-based access (farmers: view-only, officials: full access)
 
 
 
 This ensures better decision-making, transparency, and accountability for all stakeholders.
+
+## User Story 7: Government Dashboard
+
+This feature provides a centralized dashboard for government officials to monitor, analyze, and manage agricultural activities across regions.
+
+
+
+Key functionalities include:
+
+\- Real-time overview of farmer registrations and land records  
+
+\- Monitoring of loan disbursements and subsidy allocations  
+
+\- Visualization of crop yield data and aquaculture performance  
+
+\- Report generation for decision-making and planning  
+
+\- Role-based authentication and access control for officials  
+
+
+
+This dashboard improves transparency, efficiency, and coordination in agricultural administration.
 
 
 
