@@ -100,3 +100,27 @@ This ensures transparency, timely payments, and accurate government-to-farmer fu
 
 
 
+\## User Story 6: Farmer Reports
+
+This feature provides farmers and government officials with detailed reports on cultivation, loan status, subsidies, and aquaculture activities.  
+
+Reports help farmers analyze their performance and assist the government in policy decisions.
+
+
+
+Key functions include:
+
+\- Generation of crop yield and financial reports  
+
+\- Viewing of loan and subsidy history  
+
+\- Downloadable and printable report summaries  
+
+\- Role-based access (farmers: view-only, officials: full access)  
+
+
+
+This ensures better decision-making, transparency, and accountability for all stakeholders.
+
+
+
