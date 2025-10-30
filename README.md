@@ -32,25 +32,49 @@ This ensures transparency and easy verification for loan or subsidy approvals.
 
 \## User Story 3: Loan Management
 
-This module enables farmers to apply for cultivation loans through their registered profiles.  
+This module enables farmers to apply for cultivation loans through their registered profiles.
 
-Bank officials can review the farmer’s land size, crop type, and usage history before sanctioning loans.  
+Bank officials can review the farmer’s land size, crop type, and usage history before sanctioning loans.
 
 
 
 Key functions include:
 
-\- Loan application by farmers  
+\- Loan application by farmers
 
-\- Approval or rejection by bank officials  
+\- Approval or rejection by bank officials
 
-\- One-year loan tracking and repayment monitoring  
+\- One-year loan tracking and repayment monitoring
 
-\- Automatic updates to the government portal after loan issuance  
+\- Automatic updates to the government portal after loan issuance
 
 
 
 This ensures accurate loan processing, easy monitoring, and transparency between banks, farmers, and government authorities.
+
+
+
+\## User Story 4: Land Transfer
+
+This feature manages the digital process of transferring agricultural or aquaculture land ownership.  
+
+When a farmer clears existing loans, the land becomes eligible for sale or transfer to another farmer.
+
+
+
+Key functions include:
+
+\- Validation of loan clearance before transfer  
+
+\- Entry of buyer and seller farmer details  
+
+\- Approval by government officials for ownership change  
+
+\- Automatic update of new land records in the portal  
+
+
+
+This ensures secure, transparent, and traceable land ownership management within the system.
 
 
 
