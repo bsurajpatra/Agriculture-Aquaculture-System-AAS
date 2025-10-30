@@ -56,7 +56,7 @@ This ensures accurate loan processing, easy monitoring, and transparency between
 
 \## User Story 4: Land Transfer
 
-This feature manages the digital process of transferring agricultural or aquaculture land ownership.  
+This feature manages the digital process of transferring agricultural or aquaculture land ownership.
 
 When a farmer clears existing loans, the land becomes eligible for sale or transfer to another farmer.
 
@@ -64,17 +64,39 @@ When a farmer clears existing loans, the land becomes eligible for sale or trans
 
 Key functions include:
 
-\- Validation of loan clearance before transfer  
+\- Validation of loan clearance before transfer
 
-\- Entry of buyer and seller farmer details  
+\- Entry of buyer and seller farmer details
 
-\- Approval by government officials for ownership change  
+\- Approval by government officials for ownership change
 
-\- Automatic update of new land records in the portal  
+\- Automatic update of new land records in the portal
 
 
 
 This ensures secure, transparent, and traceable land ownership management within the system.
+
+## User Story 5: Subsidy \& Purchase
+
+This module allows the government to directly purchase crops from farmers and handle subsidy or insurance payments.  
+
+The purchase amount or subsidy is transferred to the farmer’s Aadhaar-linked bank account.
+
+
+
+Key functions include:
+
+\- Tracking of crop readiness and sale to government  
+
+\- Auto-payment of purchase value to bank accounts  
+
+\- Management of subsidy and insurance transactions  
+
+\- Integration with loan repayment for seamless processing  
+
+
+
+This ensures transparency, timely payments, and accurate government-to-farmer fund transfers.
 
 
 
